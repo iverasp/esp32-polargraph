@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/iver/git/me/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "USB-C-USB-2")(type "KiCad")(uri "/Users/iver/git/me/USB-C-Connectors/Kicad/USB-C-USB-2.0")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "/Users/iver/Downloads/Connector.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/iver/Downloads/ul_TMC2224-LA-T/KiCAD/2022-03-18_19-20-38/footprints.pretty")(options "")(descr ""))
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "/Users/iver/git/me/USB-C-Connectors/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+)

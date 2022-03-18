@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/iver/git/me/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-C-USB-2.0-cache")(type "Legacy")(uri "/Users/iver/git/me/USB-C-Connectors/Kicad/USB-C-USB-2.0/USB-C-USB-2.0-cache.lib")(options "")(descr ""))
+  (lib (name "Connector")(type "Legacy")(uri "/Users/iver/Downloads/Connector/Connector.lib")(options "")(descr ""))
+  (lib (name "2022-03-18_19-20-38")(type "Legacy")(uri "/Users/iver/Downloads/ul_TMC2224-LA-T/KiCAD/2022-03-18_19-20-38/2022-03-18_19-20-38.lib")(options "")(descr ""))
+)
